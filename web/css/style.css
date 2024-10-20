@@ -9,8 +9,8 @@ body {
   -o-background-size: cover;
   background-size: cover;
   margin: 0;
-	padding: 0;
-	scroll-behavior: smooth;
+  padding: 0;
+  scroll-behavior: smooth;
 }
 
 h1,
@@ -19,76 +19,76 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 0;
-	color: #111111;
-	font-weight: 400;
-	font-family: "Roboto", sans-serif;
+  margin: 0;
+  color: #111111;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
 }
 
 h1 {
-	font-size: 70px;
+  font-size: 70px;
 }
 
 h2 {
-	font-size: 19px;
+  font-size: 19px;
 }
 
 h3 {
-	font-size: 20px;
-	font-style: normal;
-	font-weight: 700;
-	color: #151515;
-	margin: 0;
-	padding: 0;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  color: #151515;
+  margin: 0;
+  padding: 0;
 }
 
 h4 {
-	font-size: 24px;
+  font-size: 24px;
 }
 
 h5 {
-	font-size: 18px;
+  font-size: 18px;
 }
 
 h6 {
-	font-size: 16px;
+  font-size: 16px;
 }
 
 p {
-	font-size: 30px;
-	font-family: "Roboto", sans-serif;
-	font-weight: 400;
-	line-height: 28px;
-	margin: 0 0 15px 0;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  margin: 0 0 15px 0;
 }
 
 .menu {
-	display: flex;
+  display: flex;
   height: 156px;
 }
 
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 input:focus,
 select:focus,
 button:focus,
 textarea:focus {
-	outline: none;
+  outline: none;
 }
 
 a:hover,
 a:focus {
-	text-decoration: none;
-	outline: none;
-	color: #fff;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
 }
 
 ul,
 ol {
-	padding: 0;
-	margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 .boxed-btn4 {
@@ -1120,7 +1120,7 @@ body .container {
     min-width: 1020px;
   }
 #pricelist.price .price_card {
-	  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.6);
 	  margin-bottom: 30px;
 	  position: relative;
 	  width: 1118px;
