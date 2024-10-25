@@ -5,6 +5,7 @@
     <h1 align="center">Высший пилотаж</h1>
     <br>
 </p>
+<img src="IMG_20241025_151232_842.jpg">
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
